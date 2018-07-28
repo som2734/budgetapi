@@ -1,0 +1,233 @@
+{
+  "Transactions":
+  [
+    {
+      "Date": "7/21/2018",
+      "Description": "Beginning balance as of 07/21/2018",
+      "Amount": 2761.03,
+      "Running Bal.": 2761.03
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "Temporary Credit Adjustment on 07/23/18 Card # 4815830025703544 Claim # 180717518366",
+      "Amount": 70.13,
+      "Running Bal.": 2831.16
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0719 JAMBA JUICE 0010 SHERMAN OAKS CA 24445008201500589500778",
+      "Amount": -6.59,
+      "Running Bal.": 2824.57
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0720 COFFEE BEAN STORE MONTROSE CA 24224438202101058941547",
+      "Amount": -6.98,
+      "Running Bal.": 2817.59
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0720 MEDIUM MONTHLY HTTPSMEDIUM.CCA 24492158201637854789176 RECURRING",
+      "Amount": -5,
+      "Running Bal.": 2812.59
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0722 CHEWY.COM 800-672-4399 FL 24692168203100361170468",
+      "Amount": -31.99,
+      "Running Bal.": 2780.6
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0722 AMAZON.COM AMZN.COM/BIL AMZN.COM/BILLWA 24431068203083357590642",
+      "Amount": -60.17,
+      "Running Bal.": 2720.43
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CHECKCARD 0721 VERIZON WRL MY ACCT VW 800-9220204 CA 24498048203666160929957",
+      "Amount": -233.13,
+      "Running Bal.": 2487.3
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "7ELEVEN-FCTI 07/22 #000811070 WITHDRWL 4919 LAS VIRGENES CALABASAS CA",
+      "Amount": -102.95,
+      "Running Bal.": 2384.35
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "THE HOME DEPOT 07/22 #000764038 PURCHASE THE HOME DEPOT #6 PANORAMA CITY CA",
+      "Amount": -71.14,
+      "Running Bal.": 2313.21
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CAPITAL ONE DES:ONLINE PMT ID:XXXXX9910050621 INDN:9944199521MASHEVICHSUS CO ID:XXXXX44991 WEB",
+      "Amount": -142,
+      "Running Bal.": 2171.21
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "PAYPAL DES:INST XFER ID:VONANGEL INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -86.05,
+      "Running Bal.": 2085.16
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "CAPITAL ONE DES:ONLINE PMT ID:XXXXX9910050620 INDN:9858702864OKSNERSAMUEL CO ID:XXXXX44991 WEB",
+      "Amount": -51,
+      "Running Bal.": 2034.16
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "PAYPAL DES:INST XFER ID:TRADER JOE S INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -13.05,
+      "Running Bal.": 2021.11
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "PAYPAL DES:INST XFER ID:XXXXX1899864 INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -6,
+      "Running Bal.": 2015.11
+    },
+    {
+      "Date": "7/23/2018",
+      "Description": "7ELEVEN-FCTI 07/22 #000811070 WITHDRWL 4919 LAS VIRGENES CALABASAS CA FEE",
+      "Amount": -2.5,
+      "Running Bal.": 2012.61
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "RALPHS # 1404 07/23 #000509040 PURCHASE RALPHS # 14049 V SHERMAN OAKS CA",
+      "Amount": -43.64,
+      "Running Bal.": 1968.97
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "TRADER JOE'S # 07/24 #000663718 PURCHASE TRADER JOE'S # 05 MONTROSE CA",
+      "Amount": -9.11,
+      "Running Bal.": 1959.86
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "RALPHS # 1404 07/24 #000122869 PURCHASE RALPHS # 14049 V SHERMAN OAKS CA",
+      "Amount": -34.52,
+      "Running Bal.": 1925.34
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "PAYPAL DES:ECHECK ID:J22222C4GJTVA INDN:SAMUEL OKSNER CO ID:PAYPALEC88 WEB",
+      "Amount": -194.2,
+      "Running Bal.": 1731.14
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "PAYPAL DES:INST XFER ID:RENSKOSE INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -145,
+      "Running Bal.": 1586.14
+    },
+    {
+      "Date": "7/24/2018",
+      "Description": "PAYPAL DES:INST XFER ID:XXXXX5736 INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -29.78,
+      "Running Bal.": 1556.36
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "CHECKCARD 0724 TWC*TIME WARNER CABLE 888-TWCABLE CA 24692168205100231716654",
+      "Amount": -69.99,
+      "Running Bal.": 1486.37
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "CHECKCARD 0724 SHORT STOP 24 SHERMAN OAKS CA 24269798205100292266273",
+      "Amount": -43.36,
+      "Running Bal.": 1443.01
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "CHECKCARD 0725 STUBHUB, INC. 866-788-2482 CA 24492158206719106632068",
+      "Amount": -110.65,
+      "Running Bal.": 1332.36
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "TRADER JOE'S # 07/25 #000804487 PURCHASE TRADER JOE'S # 05 MONTROSE CA",
+      "Amount": -5.48,
+      "Running Bal.": 1326.88
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "GSE 76 Sherman 07/25 #000799349 PURCHASE GSE 76 Sherman W VAN NUYS CA",
+      "Amount": -21.41,
+      "Running Bal.": 1305.47
+    },
+    {
+      "Date": "7/25/2018",
+      "Description": "PAYPAL DES:INST XFER ID:SHELL SERVICE S INDN:SAMUEL OKSNER CO ID:PAYPALSI77 WEB",
+      "Amount": -22.96,
+      "Running Bal.": 1282.51
+    },
+    {
+      "Date": "7/26/2018",
+      "Description": "INTERNATIONAL CH DES:PAYROLL ID:XXXXX800001556X INDN:OKSNER, SAMUEL CO ID:XXXXX99806 PPD",
+      "Amount": 1549.57,
+      "Running Bal.": 2832.08
+    },
+    {
+      "Date": "7/26/2018",
+      "Description": "CHECKCARD 0725 COFFEE BEAN STORE MONTROSE CA 24224438207101050415701",
+      "Amount": -7.59,
+      "Running Bal.": 2824.49
+    },
+    {
+      "Date": "7/26/2018",
+      "Description": "COSTCO WHSE #0 07/26 #000898559 PURCHASE COSTCO WHSE #0048 VAN NUYS CA",
+      "Amount": -73.12,
+      "Running Bal.": 2751.37
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "CHECKCARD 0725 DRYBAR STUDIO CITY STUDIO CITY CA 24750768207400000800505",
+      "Amount": -65,
+      "Running Bal.": 2686.37
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "CHECKCARD 0726 SHORT STOP 24 SHERMAN OAKS CA 24269798207100313445581",
+      "Amount": -47.72,
+      "Running Bal.": 2638.65
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "COSTCO GAS #00 07/26 #000092888 PURCHASE COSTCO GAS #0048 VAN NUYS CA",
+      "Amount": -47.06,
+      "Running Bal.": 2591.59
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "RALPHS # 1404 07/26 #000312661 PURCHASE RALPHS # 14049 V SHERMAN OAKS CA",
+      "Amount": -5.33,
+      "Running Bal.": 2586.26
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "TRADER JOE'S # 07/27 #000331737 PURCHASE TRADER JOE'S # 05 MONTROSE CA",
+      "Amount": -3.98,
+      "Running Bal.": 2582.28
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "TARGET T- 5711 07/27 #000115212 PURCHASE TARGET T- 5711 Se Van Nuys CA",
+      "Amount": -24.47,
+      "Running Bal.": 2557.81
+    },
+    {
+      "Date": "7/27/2018",
+      "Description": "BKOFAMERICA ATM 07/27 #000002945 WITHDRWL STUDIO CITY STUDIO CITY CA",
+      "Amount": -200,
+      "Running Bal.": 2357.81
+    }
+  ]
+}
